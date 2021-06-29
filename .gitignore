@@ -1,0 +1,59 @@
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sarif
+*.lastcodeanalysissucceeded
+
+# mac
+*.DS_Store
+*.icloud
+
+# office temp files
+*~$*.*
+
+# latex
+*.aux
+*.glo
+*.idx
+*.log
+*.toc
+*.ist
+*.acn
+*.acr
+*.alg
+*.bbl
+*.blg
+*.dvi
+*.glg
+*.gls
+*.ilg
+*.ind
+*.lof
+*.lot
+*.maf
+*.mtc
+*.mtc1
+*.out
+*.bcf
+*.synctex
+*.synctex(busy)
+*.synctex.gz
+*blx.bib
+*.run.xml
+*.fdb_latexmk
+*.fls
+.undodir/
+._*
+
+# vim
+*session.vim
+*.swp
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+Assets/AssetStoreTools*
